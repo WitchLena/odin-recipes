@@ -1,0 +1,17 @@
+h1 {
+    font-size: 42px;
+    font-family: "Brush Script MT", cursive, serif;
+}
+
+li {
+    color: red;
+    font-size: 24px;
+}
+
+:link {
+    color: green;
+}
+
+:visited {
+    color: rgb(128, 83, 0);
+}
